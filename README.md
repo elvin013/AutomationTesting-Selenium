@@ -28,10 +28,8 @@ Puedes encontrar las historias de usuario al final de este readme o en el aparta
 ## Installation
 
 - Download the project or clone it
-   - download [CLICK AQUI](https://github.com/elvin013/AutomationTesting-Selenium
-/archive/refs/heads/main.zip)
-   - clone [CLICK AQUI](https://github.com/elvin013/AutomationTesting-Selenium
-.git)
+   - download [CLICK AQUI](https://github.com/elvin013/AutomationTesting-Selenium/archive/refs/heads/main.zip)
+   - clone [CLICK AQUI](https://github.com/elvin013/AutomationTesting-Selenium.git)
 
 - You need to open a console and go to the path where the project is located.
 ```js
