@@ -18,6 +18,11 @@ Puedes encontrar las historias de usuario al final de este readme o en el aparta
   - chromedriver
   - geckodriver
   - selenium-webdriver
+  
+   <br><br>
+ ## Project images
+ 
+ ![Report Example](https://github.com/elvin013/AutomationTesting-Selenium/blob/master/tests/screenshots/report-example.png)
 
 <br><br>
 ## What do you need to run this project ?
