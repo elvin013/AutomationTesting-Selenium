@@ -1,5 +1,58 @@
 # Automation Testing With Selenium
+Prueba automatizada desarrollada en node.js con selenium web driver, en el que se verifica el cumplimiento de una serie de historia de usuarios automaticamente, se toman una serie de screenshots y se hace reporte de los mismos. 
 
+Puedes encontrar las historias de usuario al final de este readme o en el apartado de Issues presionando el siguiente enlace: [Historias de usuario](https://github.com/elvin013/AutomationTesting-Selenium/issues)
+<br><br>
+## Technologies 
+
+- Frontend
+	- html
+  - css
+    - Bootstrap
+  - js
+
+
+- Backend
+	- Node js
+  - Express
+  - chromedriver
+  - geckodriver
+  - selenium-webdriver
+
+<br><br>
+## What do you need to run this project ?
+
+- Node js - v16.13.2 onwards
+
+<br><br>
+## Installation
+
+- Download the project or clone it
+   - download [CLICK AQUI](https://github.com/elvin013/AutomationTesting-Selenium
+/archive/refs/heads/main.zip)
+   - clone [CLICK AQUI](https://github.com/elvin013/AutomationTesting-Selenium
+.git)
+
+- You need to open a console and go to the path where the project is located.
+```js
+ //C:\Users\HP\Desktop\AutomationTesting-Selenium
+>  - take this path whit example
+```
+
+- Now run this command for install all packages
+```cmd
+npm install 
+```
+
+- When all packages are installed, you can run the project using the this command 
+```cmd
+npm test
+```
+<br><br>
+## Developer
+- Elvin Pouriet -> [Github](https://github.com/elvin013) 
+
+# Historias de Usuario
 
 # Historia 1 🚀
 ## Yo como usuario quiero poder loguearme en la página con mis credenciales o con mi cuenta de Google
